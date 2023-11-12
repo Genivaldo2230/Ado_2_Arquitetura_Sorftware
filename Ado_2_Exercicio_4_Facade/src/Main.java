@@ -1,5 +1,6 @@
+import pedido.ItemPedido;
 import pedido.Pedido;
-import produto.ItemPedido;
+
 import produto.Produtos;
 
 public class Main {
