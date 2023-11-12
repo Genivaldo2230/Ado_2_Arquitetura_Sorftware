@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ado_2_Grupo2ArquiteturaSoft.iml" filepath="$PROJECT_DIR$/Ado_2_Grupo2ArquiteturaSoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_4Facade/Exercicio_4Facade.iml" filepath="$PROJECT_DIR$/Exercicio_4Facade/Exercicio_4Facade.iml" />
+    </modules>
+  </component>
+</project>
